@@ -195,6 +195,26 @@ X: [twitter.com/I_Avas](https://twitter.com/I_Avas)
 
 ---
 
+## 💻 My stack
+
+### Main tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,flutter,firebase,mongodb,express,python,html,css,git,github,figma,postman" />
+</p>
+
+### AI, product & delivery
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=notion,github,figma,postman" />
+</p>
+
+**AI / Automation:** Prompt Engineering · LLM Workflows · AI CRM Automation · NLP Workflows · Customer Support Automation  
+**Product:** Product Strategy · Roadmaps · PRDs · User Stories · Agile/Scrum · Stakeholder Management  
+**Data / Analytics:** Power BI · Product Analytics · A/B Testing · Customer Feedback Loops  
+**Tools:** Jira · Confluence · Notion · Figma · FigJam · GitHub Projects · Postman
+
+
 ## 📫 Contact
 
 Open to roles and collaborations in:
