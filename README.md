@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Victor Adeniyi
 
-<!--
-**Iamavas/iamavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer with Product Management experience, building scalable AI-powered SaaS products with **TypeScript, Node.js, React, Flutter, Firebase, APIs, and prompt engineering**.
 
-Here are some ideas to get you started:
+I work across **AI automation, fintech, CRM tools, trading platforms, and mobile/web SaaS**, combining technical execution with product strategy to turn ideas into shipped products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+
+- AI-powered SaaS products
+- CRM and workflow automation
+- Fintech and B2B platforms
+- Full-stack web and mobile apps
+- Prompt engineering and LLM-powered features
+
+Tech I use:
+
+`TypeScript` · `JavaScript` · `React` · `Node.js` · `Flutter` · `Firebase` · `MongoDB` · `APIs` · `Prompt Engineering`
+
+Portfolio: [my-portfolio-nine-mu-54.vercel.app](https://my-portfolio-nine-mu-54.vercel.app)  
+LinkedIn: [linkedin.com/in/iamavas](https://www.linkedin.com/in/iamavas)
